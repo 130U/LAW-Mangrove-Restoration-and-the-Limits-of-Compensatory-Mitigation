@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Mangrove Restoration and the Limits of Compensatory Mitigation: Lessons from Florida for the Greater Bay Area"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "What is a promise of future wetland function worth when it is used to permit a loss today? The Article, its PDF, an argument map, the proposal and the sources."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/LAW-Mangrove-Restoration-and-the-Limits-of-Compensatory-Mitigation"
+url: "https://www.theodoreoy.com/experience/mangrove-restoration-and-the-limits-of-compensatory-mitigation/"
+keywords:
+  - "environmental law"
+  - "compensatory mitigation"
+  - "wetlands"
+  - "mangroves"
+  - "ecological restoration"
+  - "Greater Bay Area"
+preferred-citation:
+  type: unpublished
+  title: "Mangrove Restoration and the Limits of Compensatory Mitigation: Lessons from Florida for the Greater Bay Area"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2024
+  url: "https://www.theodoreoy.com/experience/mangrove-restoration-and-the-limits-of-compensatory-mitigation/"
+  institution:
+    name: "Duke Law School"
+  notes: "Manuscript, Duke Law School, December 2024; revised November 2026."
